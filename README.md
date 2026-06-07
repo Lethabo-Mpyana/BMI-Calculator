@@ -9,3 +9,6 @@ This project demonstrates basic Python programming and can be extended into more
 Run the script in your terminal:
 ```bash
 python bmi_calculator.py
+Enter your weight (kg): 70
+Enter your height (m): 1.75
+Your BMI is: 22.86
