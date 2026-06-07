@@ -12,3 +12,6 @@ python bmi_calculator.py
 Enter your weight (kg): 70
 Enter your height (m): 1.75
 Your BMI is: 22.86
+
+## 📜 License
+This project is licensed under the MIT License – see the LICENSE file for details.
